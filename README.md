@@ -16,6 +16,7 @@ The full workspace archive is too large for normal Git history.
 - Dataset asset: `champion_run38_workspace.tar.gz`
 - SHA-256: `73fd6edb77af0ce1d6356f835baf2f5d586f5289d108efe0c6be61b1b9f9bfd5`
 - Delivery method: GitHub release asset for this repository
+- Release: `v0.1.0`
 
 ## Computational Snapshot
 
